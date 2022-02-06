@@ -1,0 +1,43 @@
+{
+  "name": "SCUMBAG$ #0",
+  "symbol": "SCUMBAGS",
+  "description": "A generative collection of 3,000 Unique Money Bag Characters. For animated tokens click associated Link for .gif files.",
+  "seller_fee_basis_points": 1000,
+  "image": "https://raw.githubusercontent.com/BHALEYART/animated-bags-fix/main/rainbow%20barf.gif",
+  "animated_url": "https://raw.githubusercontent.com/BHALEYART/animated-bags-fix/main/rainbow%20barf.gif",
+  "external_url": "http://www.scumbags.io/wp-content/uploads/2021/11/throwupscumbag-1.gif",
+  "edition": 0,
+  "attributes": [
+    {
+      "trait_type": "Legendary",
+      "value": "Animated Scum"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/BHALEYART/animated-bags-fix/main/rainbow%20barf.gif",
+        "type": "image/gif"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "4ejehx7PJVYpLcfivsshBTYsnvr1ni9TPHZGcCkRKBQb",
+        "share": 65
+      },
+      {
+        "address": "9j3pc3gtBDFc8nNPNHjKrVfVewfxbrFm4doVwFoVP5Bu",
+        "share": 25
+      },
+      {
+        "address": "HN2VxERebRDfAL8S8WCHW96mfNY6XpTvbqDiuLpckmLm",
+        "share": 5
+      },
+      {
+        "address": "2L5XkJdPfhsetVCvdSuxrS9bW73fAbBrsNJuTJxA75C3",
+        "share": 5
+      }
+    ]
+  }
+}
