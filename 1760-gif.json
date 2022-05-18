@@ -3,7 +3,7 @@
   "symbol": "SCUMBAGS",
   "description": "A generative collection of 3,000 Unique Money Bag Characters. For animated tokens click associated Link for .gif files.",
   "seller_fee_basis_points": 1000,
-  "image": "https://raw.githubusercontent.com/BHALEYART/animated-bags-fix/main/nega%20barf.gif",
+  "image": "https://raw.githubusercontent.com/BHALEYART/animated-bags-fix/main/nega-barf-small.gif",
   "animated_url": "http://www.scumbags.io/wp-content/uploads/2021/11/nega-barf.gif",
   "external_url": "https://scumbags.io",
   "edition": 1760,
@@ -16,7 +16,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/BHALEYART/animated-bags-fix/main/nega%20barf.gif",
+        "uri": "https://raw.githubusercontent.com/BHALEYART/animated-bags-fix/main/nega-barf-small.gif",
         "type": "image/gif"
       }
     ],
